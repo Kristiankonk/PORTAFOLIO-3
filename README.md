@@ -50,7 +50,6 @@ El programa se ejecuta en consola y muestra un **menú principal** desde el cual
 3. Abre una terminal en la carpeta del proyecto.
 4. Ejecuta:
 
-
 python main.py
 
 *(En algunos sistemas el comando puede ser `python3` en lugar de `python`.)*

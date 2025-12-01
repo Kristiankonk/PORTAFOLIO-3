@@ -3,7 +3,6 @@ import math
 
 # Funciones de utilidades
 
-
 def mostrar_titulo(titulo: str) -> None:
     """Muestra un título formateado en consola."""
     print("\n" + "=" * 60)
